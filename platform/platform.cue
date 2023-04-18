@@ -4,7 +4,7 @@ import (
     "guku.io/devx/v2alpha1"
     "guku.io/devx/v2alpha1/environments"
     "guku.io/devx/v1/transformers/terraform/aws"
-    infra "devopzilla.com:main"
+    infra "barmag.com:main"
 )
 
 Builders: v2alpha1.#Environments & {
